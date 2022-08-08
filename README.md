@@ -8,7 +8,7 @@ reservation payload from Booking.com. The core skills we look for in a Ruby on
 Rails Engineer is their ability to work with APIs. We’d like you to demonstrate how
 you would parse and save 2 different payloads with 1 API endpoint.
 
-Instructions
+### Instructions
 1. Start a Ruby on Rails project that is purely an API app.
 2. Create one API endpoint that can accept both payload formats. See payloads
    at the end of this document.
@@ -41,11 +41,11 @@ Instructions
    "infants": 0,
    "status": "accepted",
    "guest": {
-   "id": 1,
-   "first_name": "Wayne",
-   "last_name": "Woodbridge",
-   "phone": "639123456789",
-   "email": "wayne_woodbridge@bnb.com"
+      "id": 1,
+      "first_name": "Wayne",
+      "last_name": "Woodbridge",
+      "phone": "639123456789",
+      "email": "wayne_woodbridge@bnb.com"
    },
    "currency": "AUD",
    "payout_price": "3800.00",

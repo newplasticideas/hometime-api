@@ -1,5 +1,6 @@
 ruby "3.0.0"
 gem "annotate"
+gem 'bootsnap'
 gem "jbuilder"
 gem "multi_json" # for rswag
 gem "pg", "~> 1.1"
